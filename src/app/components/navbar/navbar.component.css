@@ -1,0 +1,12 @@
+nav {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(19, 19, 19);
+  color: whitesmoke;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
